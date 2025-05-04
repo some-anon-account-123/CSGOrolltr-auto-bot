@@ -1,4 +1,4 @@
-# Csgorolltr Bot
+# Csgorolltr Auto Withdraw Bot
 
 This is a bot for the csgorolltr (and csgoroll) website
 
