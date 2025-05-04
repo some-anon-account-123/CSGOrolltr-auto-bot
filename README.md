@@ -1,22 +1,29 @@
-# Csgorolltr bot
+# Csgorolltr Bot
 
-This is a bot for csgorolltr(and csgoroll) website
+This is a bot for the csgorolltr (and csgoroll) website.
 
-Price - around 75 EUR for now
+Price: Around 75 EUR for now.
 
-For buy write to https://t.me/some_anon_account
+To purchase, contact: https://t.me/some_anon_account
 
-## What it can do? 
+## What can it do?
 
-- Auto get cards filtered(you also can set/change filters by yourself) by wear, name, brand and csgorolltr type(green flash, yellow flash or yellow warning)
-- Auto click on get gems
-- Auto click 'Withdraw' after adding item to cart
-- Auto send message to telegram on you item is sold
+- Automatically get cards filtered by wear, name, brand, and csgorolltr type (green flash, yellow flash, or yellow warning). You can also set/change filters yourself.
+- Automatically click to get gems.
+- Automatically click 'Withdraw' after adding an item to the cart.
+- Automatically send a message to Telegram when your item is sold.
+
+## What's included in the package?
+
+- Code to run the bot
+- Instructions on how to run and use it
+- Instructions on how to configure it
+- Support from the developer via Telegram
 
 ## FAQ
 
-**Will it be supported in future?**
+**Will it be supported in the future?**
 
-It will be not supported only if csgorolltr implement some anti-cheat system
+It will not be supported only if csgorolltr implements some anti-cheat system. 
 
-For not, and for last 2 years, it works perfectly
+So far, for the last 2-3 years, it has worked perfectly, and has only broken twice when the website was updated.
